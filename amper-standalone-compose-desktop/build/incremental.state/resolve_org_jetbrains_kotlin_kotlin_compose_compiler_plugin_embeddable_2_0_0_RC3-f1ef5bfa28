@@ -1,0 +1,17 @@
+{
+    "amperBuild": "0.3.0",
+    "configuration": {
+    },
+    "inputs": [
+    ],
+    "inputsState": {
+    },
+    "outputs": [
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.0-RC3/kotlin-compose-compiler-plugin-embeddable-2.0.0-RC3.jar"
+    ],
+    "outputsState": {
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compose-compiler-plugin-embeddable/2.0.0-RC3/kotlin-compose-compiler-plugin-embeddable-2.0.0-RC3.jar": "size 911978 mtime 2024-06-24T08:28:21.930064126Z mode 420 owner vengateshm group staff"
+    },
+    "outputProperties": {
+    }
+}

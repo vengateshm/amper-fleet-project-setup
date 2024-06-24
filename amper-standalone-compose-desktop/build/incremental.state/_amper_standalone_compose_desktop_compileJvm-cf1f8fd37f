@@ -1,0 +1,73 @@
+{
+    "amperBuild": "0.3.0",
+    "configuration": {
+        "jdk.url": "https://corretto.aws/downloads/resources/21.0.1.12.1/amazon-corretto-21.0.1.12.1-macosx-x64.tar.gz",
+        "kotlin.version": "2.0.0-RC3",
+        "target.platforms": "JVM",
+        "task.output.root": "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm",
+        "user.settings": "{\"kotlin\":{\"languageVersion\":\"Kotlin19\",\"apiVersion\":\"Kotlin19\",\"allWarningsAsErrors\":false,\"suppressWarnings\":false,\"debug\":true,\"verbose\":false,\"progressiveMode\":false,\"languageFeatures\":[],\"optIns\":[],\"freeCompilerArgs\":[],\"serializationEnabled\":false,\"composeEnabled\":true},\"jvmRelease\":\"VERSION_17\"}"
+    },
+    "inputs": [
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/src",
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/resources",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.0.0-RC3/kotlin-stdlib-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/desktop/desktop-jvm/1.6.10-rc01/desktop-jvm-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/foundation/foundation-desktop/1.6.10-rc01/foundation-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/material/material-desktop/1.6.10-rc01/material-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/runtime/runtime-desktop/1.6.10-rc01/runtime-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-desktop/1.6.10-rc01/ui-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-tooling-preview-desktop/1.6.10-rc01/ui-tooling-preview-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/animation/animation-desktop/1.6.10-rc01/animation-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/skiko/skiko-awt/0.8.4/skiko-awt-0.8.4.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/animation/animation-core-desktop/1.6.10-rc01/animation-core-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/material/material-icons-core-desktop/1.6.10-rc01/material-icons-core-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/material/material-ripple-desktop/1.6.10-rc01/material-ripple-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-text-desktop/1.6.10-rc01/ui-text-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.6.10-rc01/runtime-saveable-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-geometry-desktop/1.6.10-rc01/ui-geometry-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-graphics-desktop/1.6.10-rc01/ui-graphics-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-unit-desktop/1.6.10-rc01/ui-unit-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-util-desktop/1.6.10-rc01/ui-util-desktop-1.6.10-rc01.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/foundation/foundation-layout-desktop/1.6.10-rc01/foundation-layout-desktop-1.6.10-rc01.jar"
+    ],
+    "inputsState": {
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/resources": "MISSING",
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/src/main.kt": "size 256 mtime 2024-06-24T08:22:24.512032243Z",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/annotations/23.0.0/annotations-23.0.0.jar": "size 29371 mtime 2024-06-24T08:26:35.427471941Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/animation/animation-core-desktop/1.6.10-rc01/animation-core-desktop-1.6.10-rc01.jar": "size 359562 mtime 2024-06-24T08:26:25.147850034Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/animation/animation-desktop/1.6.10-rc01/animation-desktop-1.6.10-rc01.jar": "size 300688 mtime 2024-06-24T08:26:25.248497794Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/desktop/desktop-jvm/1.6.10-rc01/desktop-jvm-1.6.10-rc01.jar": "size 8150 mtime 2024-06-24T08:26:35.369517809Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/foundation/foundation-desktop/1.6.10-rc01/foundation-desktop-1.6.10-rc01.jar": "size 3979995 mtime 2024-06-24T08:26:27.253553444Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/foundation/foundation-layout-desktop/1.6.10-rc01/foundation-layout-desktop-1.6.10-rc01.jar": "size 529155 mtime 2024-06-24T08:26:26.407466487Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/material/material-desktop/1.6.10-rc01/material-desktop-1.6.10-rc01.jar": "size 2092015 mtime 2024-06-24T08:26:26.705964312Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/material/material-icons-core-desktop/1.6.10-rc01/material-icons-core-desktop-1.6.10-rc01.jar": "size 878418 mtime 2024-06-24T08:26:25.494819122Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/material/material-ripple-desktop/1.6.10-rc01/material-ripple-desktop-1.6.10-rc01.jar": "size 55112 mtime 2024-06-24T08:26:24.775524773Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/runtime/runtime-desktop/1.6.10-rc01/runtime-desktop-1.6.10-rc01.jar": "size 1316319 mtime 2024-06-24T08:26:26.772581581Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/runtime/runtime-saveable-desktop/1.6.10-rc01/runtime-saveable-desktop-1.6.10-rc01.jar": "size 54718 mtime 2024-06-24T08:26:25.735221053Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-desktop/1.6.10-rc01/ui-desktop-1.6.10-rc01.jar": "size 3079646 mtime 2024-06-24T08:26:36.965306974Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-geometry-desktop/1.6.10-rc01/ui-geometry-desktop-1.6.10-rc01.jar": "size 38225 mtime 2024-06-24T08:26:26.31585174Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-graphics-desktop/1.6.10-rc01/ui-graphics-desktop-1.6.10-rc01.jar": "size 425249 mtime 2024-06-24T08:26:25.315320064Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-text-desktop/1.6.10-rc01/ui-text-desktop-1.6.10-rc01.jar": "size 731569 mtime 2024-06-24T08:26:26.311974403Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-tooling-preview-desktop/1.6.10-rc01/ui-tooling-preview-desktop-1.6.10-rc01.jar": "size 1863 mtime 2024-06-24T08:26:25.439326767Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-unit-desktop/1.6.10-rc01/ui-unit-desktop-1.6.10-rc01.jar": "size 72827 mtime 2024-06-24T08:26:24.704266002Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/compose/ui/ui-util-desktop/1.6.10-rc01/ui-util-desktop-1.6.10-rc01.jar": "size 13347 mtime 2024-06-24T08:26:25.457557818Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.0.0-RC3/kotlin-stdlib-2.0.0-RC3.jar": "size 1729734 mtime 2024-06-24T08:26:25.656428493Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.8.0/kotlinx-coroutines-core-jvm-1.8.0.jar": "size 1548360 mtime 2024-06-24T08:26:25.825946954Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/skiko/skiko-awt/0.8.4/skiko-awt-0.8.4.jar": "size 1189138 mtime 2024-06-24T08:26:36.38312301Z mode 420 owner vengateshm group staff"
+    },
+    "outputs": [
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm"
+    ],
+    "outputsState": {
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm/ComposableSingletons$MainKt$lambda-1$1.class": "size 2656 mtime 2024-06-24T08:28:29.317949623Z",
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm/ComposableSingletons$MainKt$lambda-2$1$1$1.class": "size 1298 mtime 2024-06-24T08:28:29.319238558Z",
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm/ComposableSingletons$MainKt$lambda-2$1.class": "size 4470 mtime 2024-06-24T08:28:29.318673138Z",
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm/ComposableSingletons$MainKt.class": "size 2007 mtime 2024-06-24T08:28:29.317264825Z",
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm/META-INF/main.kotlin_module": "size 36 mtime 2024-06-24T08:28:29.339412297Z",
+        "/Users/vengateshm/KotlinMultiplatform/AmperFleet/amper-standalone-compose-desktop/build/tasks/_amper-standalone-compose-desktop_compileJvm/MainKt.class": "size 788 mtime 2024-06-24T08:28:29.319823876Z"
+    },
+    "outputProperties": {
+    }
+}

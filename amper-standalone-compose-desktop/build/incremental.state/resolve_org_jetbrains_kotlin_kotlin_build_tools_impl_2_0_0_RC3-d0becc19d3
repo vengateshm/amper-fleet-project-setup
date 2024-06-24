@@ -1,0 +1,55 @@
+{
+    "amperBuild": "0.3.0",
+    "configuration": {
+    },
+    "inputs": [
+    ],
+    "inputsState": {
+    },
+    "outputs": [
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-impl/2.0.0-RC3/kotlin-build-tools-impl-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-api/2.0.0-RC3/kotlin-build-tools-api-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.0.0-RC3/kotlin-stdlib-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.0.0-RC3/kotlin-compiler-embeddable-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-runner/2.0.0-RC3/kotlin-compiler-runner-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-compiler-embeddable/2.0.0-RC3/kotlin-scripting-compiler-embeddable-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-compiler-impl-embeddable/2.0.0-RC3/kotlin-scripting-compiler-impl-embeddable-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/annotations/13.0/annotations-13.0.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.0.0-RC3/kotlin-script-runtime-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.0.0-RC3/kotlin-daemon-embeddable-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/intellij/deps/trove4j/1.0.20200330/trove4j-1.0.20200330.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-common/2.0.0-RC3/kotlin-build-common-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-client/2.0.0-RC3/kotlin-daemon-client-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.5.0/kotlinx-coroutines-core-jvm-1.5.0.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-common/2.0.0-RC3/kotlin-scripting-common-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-jvm/2.0.0-RC3/kotlin-scripting-jvm-2.0.0-RC3.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.0/kotlin-stdlib-jdk8-1.5.0.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib-common/1.5.0/kotlin-stdlib-common-1.5.0.jar",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.0/kotlin-stdlib-jdk7-1.5.0.jar"
+    ],
+    "outputsState": {
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/annotations/13.0/annotations-13.0.jar": "size 17536 mtime 2024-06-24T08:28:12.595937909Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/intellij/deps/trove4j/1.0.20200330/trove4j-1.0.20200330.jar": "size 572985 mtime 2024-06-24T08:28:00.581037927Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-common/2.0.0-RC3/kotlin-build-common-2.0.0-RC3.jar": "size 527110 mtime 2024-06-24T08:28:00.752080963Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-api/2.0.0-RC3/kotlin-build-tools-api-2.0.0-RC3.jar": "size 26717 mtime 2024-06-24T08:27:59.953843771Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-build-tools-impl/2.0.0-RC3/kotlin-build-tools-impl-2.0.0-RC3.jar": "size 54308 mtime 2024-06-24T08:28:00.035849798Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-embeddable/2.0.0-RC3/kotlin-compiler-embeddable-2.0.0-RC3.jar": "size 57192203 mtime 2024-06-24T08:28:12.67333374Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-compiler-runner/2.0.0-RC3/kotlin-compiler-runner-2.0.0-RC3.jar": "size 19820 mtime 2024-06-24T08:28:00.907978529Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-client/2.0.0-RC3/kotlin-daemon-client-2.0.0-RC3.jar": "size 560804 mtime 2024-06-24T08:28:00.751519719Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-daemon-embeddable/2.0.0-RC3/kotlin-daemon-embeddable-2.0.0-RC3.jar": "size 346233 mtime 2024-06-24T08:28:01.68033066Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-reflect/1.6.10/kotlin-reflect-1.6.10.jar": "size 3038560 mtime 2024-06-24T08:28:01.255945141Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-script-runtime/2.0.0-RC3/kotlin-script-runtime-2.0.0-RC3.jar": "size 43407 mtime 2024-06-24T08:28:05.767958562Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-common/2.0.0-RC3/kotlin-scripting-common-2.0.0-RC3.jar": "size 196222 mtime 2024-06-24T08:28:04.670439329Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-compiler-embeddable/2.0.0-RC3/kotlin-scripting-compiler-embeddable-2.0.0-RC3.jar": "size 392373 mtime 2024-06-24T08:28:00.576042256Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-compiler-impl-embeddable/2.0.0-RC3/kotlin-scripting-compiler-impl-embeddable-2.0.0-RC3.jar": "size 229496 mtime 2024-06-24T08:28:01.491767253Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-scripting-jvm/2.0.0-RC3/kotlin-scripting-jvm-2.0.0-RC3.jar": "size 150196 mtime 2024-06-24T08:28:01.322187562Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib-common/1.5.0/kotlin-stdlib-common-1.5.0.jar": "size 197353 mtime 2024-06-24T08:28:01.47194128Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.5.0/kotlin-stdlib-jdk7-1.5.0.jar": "size 22992 mtime 2024-06-24T08:28:00.816356137Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.5.0/kotlin-stdlib-jdk8-1.5.0.jar": "size 16124 mtime 2024-06-24T08:27:59.878780241Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlin/kotlin-stdlib/2.0.0-RC3/kotlin-stdlib-2.0.0-RC3.jar": "size 1729734 mtime 2024-06-24T08:26:25.656428493Z mode 420 owner vengateshm group staff",
+        "/Users/vengateshm/Library/Caches/Amper/.m2.cache/org/jetbrains/kotlinx/kotlinx-coroutines-core-jvm/1.5.0/kotlinx-coroutines-core-jvm-1.5.0.jar": "size 1482528 mtime 2024-06-24T08:28:01.184489232Z mode 420 owner vengateshm group staff"
+    },
+    "outputProperties": {
+    }
+}

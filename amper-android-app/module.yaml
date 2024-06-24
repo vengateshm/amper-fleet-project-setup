@@ -1,0 +1,11 @@
+product: android/app
+
+dependencies:
+    - $compose.foundation
+    - $compose.material3
+    - androidx.activity:activity-compose:1.8.2
+    - androidx.appcompat:appcompat:1.6.1
+
+settings:
+    compose:
+            enabled: true

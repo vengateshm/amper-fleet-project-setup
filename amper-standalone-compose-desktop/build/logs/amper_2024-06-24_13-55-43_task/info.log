@@ -1,0 +1,4 @@
+JetBrains Amper version 0.3.0+fa5d34a
+running on Mac OS X 14.4.1 jvm arch x86_64
+
+00:02.760 INFO  :amper-standalone-compose-desktop:resolveDependenciesJvm ExecuteOnChangedInputs    building ':amper-standalone-compose-desktop:resolveDependenciesJvm'
